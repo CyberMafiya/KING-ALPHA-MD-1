@@ -95,37 +95,37 @@
       },
        "SONG_DOWN": {
             "description": "",
-            "value": "*📥Downloading your song...*" ,
+            "value": "_*I'm Searching your song*_ ✨➾🔎" ,
             "required": true
       }, 
         "SONG_UP": {
             "description": "",
-            "value": "*📤Uploading your song...*" ,
+            "value": "_*Im Uploading your song*_ ✨➾🎲" ,
             "required": true
       },
           "VIDEO_DOWN": {
             "description": "",
-            "value": "*📥Downloading your video...*" ,
+            "value": "_*I'm Bringing your video*_ ✨➾🔎" ,
             "required": true
       },
           "VIDEO_UP": {
             "description": "",
-            "value": "*📤Uploading your video...*" ,
+            "value": "_*Im Uploading your video*_ ✨➾🎲" ,
             "required": true
       },
           "FILE_DOWN": {
             "description": "",
-            "value": "*📥Downloading your file...*" ,
+            "value": "_*ɪᴍ sᴇᴀʀᴄʜɪɴɢ ʏᴏᴜʀ ғɪʟᴇ*_✨➾🔎" ,
             "required": true
       },
           "FILE_UP": {
             "description": "",
-            "value": "*📤Uploading your file...*" ,
+            "value": "_*ɪᴍ ᴜᴘʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ғɪʟᴇ*_✨➾🎲" ,
             "required": true
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "𝐊𝐈𝐍𝐆 𝐀𝐋𝐏𝐇𝐀" ,
             "required": true
       },
           "WORK_TYPE": {
